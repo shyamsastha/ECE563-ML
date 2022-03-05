@@ -3,7 +3,7 @@
 
 ## Project
 
-**Stroke Prediction using [Kaggle dataset](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset)**
+**The Herbarium 2022: Flora of North America - [Kaggle Competition](https://www.kaggle.com/c/herbarium-2022-fgvc9/overview)**
 
 ## Assignments
 
